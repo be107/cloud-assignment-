@@ -160,7 +160,7 @@ It includes:
 
 ### 📸 Screenshot
 
-![Game Start](images/game-start.png)
+![dash board]((https://github.com/be107/cloud-assignment-/blob/331aa9699751305417509636a4585e44b2c0778f/images/dashboard.png))
 
 ---
 
