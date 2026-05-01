@@ -55,7 +55,7 @@ Key operations include:
 * Prepare data for analytics and reporting
 
 ### 📸 Screenshot
-![Game Start](images/game-start.png)
+![Silver laye](https://github.com/be107/cloud-assignment-/blob/1f7986b8f69b2c2e44cd2529becc2698f66c3f75/images/silver.png))
 
 ---
 
