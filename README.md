@@ -123,6 +123,7 @@ This view identifies the top customers based on total spending.
 * Recognize high-value customers
 * Support targeted marketing strategies
 
+![gold laye](https://github.com/be107/cloud-assignment-/blob/42197aa3e52249697f7895b965fcd525f162eb35/images/gold.png))
 
 ---
 
