@@ -32,7 +32,7 @@ At this stage:
 * Ensure no data is lost during ingestion
 
 ### 📸 Screenshot
-![bronze layer]([images/game-start.png](https://github.com/be107/cloud-assignment-/blob/4c8d06b1378df70d4eee1674d1f210cb07b794e6/images/bronze.png))
+![bronze layer](https://github.com/be107/cloud-assignment-/blob/4c8d06b1378df70d4eee1674d1f210cb07b794e6/images/bronze.png))
 
 
 ---
